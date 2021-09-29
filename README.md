@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AR-python
+- 👋 Hi, I’m @Anand
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning ML/DL
 - 💞️ I’m looking to collaborate on ...
